@@ -1,0 +1,2 @@
+
+wget https://raw.githubusercontent.com/riski150704/LinuxDroid/master/DesktopEnvironment/Apt/Xfce4/de-apt-xfce4.sh && bash de-apt-xfce4.sh
