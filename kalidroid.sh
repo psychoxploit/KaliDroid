@@ -79,8 +79,7 @@ pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubuser
 
 ls
 
-cd kalimux
-
+cd KaliDroid
 ls
 
 cp dekal.txt $HOME
@@ -91,7 +90,7 @@ cd $HOME
 
 ls
 
-rm -rf kalimux
+rm -rf KaliDroid
 
 ls
 
